@@ -14,7 +14,7 @@ jobs:
     steps:
       - checkout
       - run:
-        name: Config email
+        name: Git config
         command: 'git config --global user.email "davisshaver@users.noreply.github.com"'
 workflows:
   version: 2
