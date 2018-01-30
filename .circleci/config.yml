@@ -13,6 +13,9 @@ jobs:
       - image: circleci/node:4.8.2
     steps:
       - checkout
+      - run:
+        name: Config email
+        command: 'git config --global user.email "davisshaver@users.noreply.github.com"'
 workflows:
   version: 2
   build_and_test:
