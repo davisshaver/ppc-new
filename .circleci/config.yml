@@ -6,8 +6,8 @@ jobs:
     steps:
     - checkout
     - run:
-      name: Echo nothing
-      command: 'echo "Skipping tests on gh-pages branch"'
+        name: Echo nothing
+        command: 'echo "Skipping tests on gh-pages branch"'
   deploy:
     docker:
       - image: circleci/node:4.8.2
