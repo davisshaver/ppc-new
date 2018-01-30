@@ -18,7 +18,6 @@ const siteConfig = {
     {doc: 'mission', label: 'Mission'},
     {doc: 'projects', label: 'Projects'},
     {doc: 'contact', label: 'Contact'},
-    {doc: 'contribute', label: 'Contribute'},
     {blog: true, label: 'Blog'},
   ],
   users,
