@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/node:4.8.2
+      - image: circleci/node:7
     steps:
     - checkout
     - run:
@@ -10,7 +10,7 @@ jobs:
         command: 'echo "Skipping tests on gh-pages branch"'
   deploy:
     docker:
-      - image: circleci/node:4.8.2
+      - image: circleci/node:7
     steps:
       - checkout
       - run:
