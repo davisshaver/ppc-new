@@ -13,18 +13,6 @@ jobs:
       - image: circleci/node:4.8.2
     steps:
       - checkout
-      - run:
-        name: Config email
-        command: 'git config --global user.email "davisshaver@users.noreply.github.com"'
-      - run:
-        name: Config username
-        command: 'git config --global user.name "<YOUR_NAME>"'
-      - run:
-        name: Setup Github token
-        command: 'echo "machine github.com login davisshaver password $GITHUB_TOKEN" > ~/.netrc'
-      - run:
-        name: Publish
-        command: 'cd website && npm install && GIT_USER=davisshaver USE_SSH=true npm run publish-gh-pages'
 workflows:
   version: 2
   build_and_test:
