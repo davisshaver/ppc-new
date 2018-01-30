@@ -12,7 +12,7 @@ const siteConfig = {
   title: 'Newsroom in a Box' /* title for your website */,
   tagline: 'An opinionated guide & set of tools for digital publishing',
   url: 'https://newsroominabox.com' /* your website url */,
-  baseUrl: '/guide/' /* base url for your project */,
+  baseUrl: '/' /* base url for your project */,
   projectName: 'guide',
   headerLinks: [
     {doc: 'mission', label: 'Mission'},
