@@ -35,8 +35,8 @@ const siteConfig = {
     'Copyright © ' +
     new Date().getFullYear() +
     ' Philadelphia Publishing Company',
-  // organizationName: 'deltice', // or set an env variable ORGANIZATION_NAME
-  projectName: 'niab', // or set an env variable PROJECT_NAME
+  organizationName: 'davisshaver', // or set an env variable ORGANIZATION_NAME
+  projectName: 'newsroominabox', // or set an env variable PROJECT_NAME
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default',
