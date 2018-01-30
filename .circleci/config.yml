@@ -18,13 +18,13 @@ jobs:
           command: 'git config --global user.email "davisshaver@users.noreply.github.com"'
       - run:
           name: Config username
-          command: 'git config --global user.name "<YOUR_NAME>"'
+          command: 'git config --global user.name "Davis Shaver"'
       - run:
           name: Setup Github token
           command: 'echo "machine github.com login davisshaver password $GITHUB_TOKEN" > ~/.netrc'
       - run:
           name: Publish
-          command: 'cd website && npm install && GIT_USER=davisshaver USE_SSH=true npm run publish-gh-pages'
+          command: 'cd website && npm install && GIT_USER=davisshaver npm run publish-gh-pages'
 workflows:
   version: 2
   build_and_test:
