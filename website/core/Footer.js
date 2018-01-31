@@ -23,7 +23,11 @@ class Footer extends React.Component {
     return (
       <footer className="nav-footer" id="footer">
         <section className="sitemap">
-          <a href={this.props.config.baseUrl} className="nav-home">
+          <a
+            href={this.props.config.projectURL}
+            className="nav-home"
+            title="Check out our open source project, Newsroom in a Box"
+          >
             {this.props.config.footerIcon && (
               <img
                 src={this.props.config.baseUrl + this.props.config.footerIcon}
@@ -34,31 +38,25 @@ class Footer extends React.Component {
             )}
           </a>
           <div>
-            <h5>Docs</h5>
-            <a href={this.docUrl('mission.html', this.props.language)}>
-              Mission
-            </a>
+            <h5>Contact Info</h5>
+            <p>
+              <a href="mailto:info@phillypublishing.com">info@phillypublishing.com</a><br />
+              <a href="tel:8566711634">(856) 671-1634</a><br />
+              Philadelphia Publishing Company<br />
+              30 South 15th Street, 15 Floor<br />
+              Philadelphia, PA 19102
+            </p>
           </div>
           <div>
-            <h5>Community</h5>
-            <a href="https://discord.gg/z62uqBB">Project Chat</a>
-            <a href="https://twitter.com/davisshaver" target="_blank">
-              Twitter
-            </a>
+            <h5>Social Media</h5>
+            <a href="https://www.facebook.com/phillypublishing/">Facebook</a>
+            <a href="https://twitter.com/phillypubco">Twitter</a>
+            <a href="https://www.linkedin.com/company/27233911/">LinkedIn</a>
           </div>
           <div>
-            <h5>More</h5>
-            <a href={this.props.config.baseUrl + 'blog'}>Blog</a>
-            <a href="https://github.com/davisshaver/newsroominabox">GitHub</a>
-            <a
-              className="github-button"
-              href={this.props.config.repoUrl}
-              data-icon="octicon-star"
-              data-count-href="/davisshaver/newsroominabox/stargazers"
-              data-show-count={true}
-              data-count-aria-label="# stargazers on GitHub"
-              aria-label="Star this project on GitHub">
-              Star
+            <h5>Legal</h5>
+            <a href={this.docUrl('privacy.html', this.props.language)}>
+              Privacy Policy
             </a>
           </div>
         </section>

@@ -3,14 +3,12 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "An opinionated guide & set of tools for digital publishing",
+    "tagline": "Tech solutions for local & niche publishers.",
+    "audits": "Site Audits",
     "contact": "Contact",
-    "mission": "Mission",
-    "projects": "Projects",
-    "Mission": "Mission",
-    "Projects": "Projects",
-    "Contact": "Contact",
-    "Blog": "Blog"
+    "privacy": "Privacy Notice",
+    "Audits": "Audits",
+    "Contact": "Contact"
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",

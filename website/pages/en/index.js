@@ -79,12 +79,10 @@ class HomeSplash extends React.Component {
     let language = this.props.language || '';
     return (
       <SplashContainer>
-        <Logo img_src={imgUrl('ben.png')} />
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href={docUrl('mission.html', language)}>Our mission</Button>
-            <Button href={docUrl('projects.html', language)}>Projects</Button>
+            <Button href={docUrl('audits.html', language)}>Request your free site audit</Button>
          </PromoSection>
         </div>
       </SplashContainer>
@@ -135,8 +133,8 @@ const LearnHow = props => (
       {
         content: 'Talk about learning how to use this',
         image: imgUrl('ben.png'),
-        imageAlign: 'right',
-        title: 'Learn How',
+        imageAlign: 'left',
+        title: 'This is an exclusive offer to Indy local and niche publishers.',
       },
     ]}
   </Block>
@@ -159,10 +157,10 @@ const Description = props => (
   <Block background="dark">
     {[
       {
-        content: 'This is another description of how this project is useful',
-        image: imgUrl('ben.png'),
+        content: 'It once seemed crazy that digital revenue would overtake print.<br /><br />**Now it seems inevitable.** <br /><br />The New York Times & Washington Post are trailblazing business models built on digital advertising & subscription revenue. The Denver Post expects [crossover](https://www.denverpost.com/2018/01/16/mac-tully-the-denver-post-resigns/) this year.<br /><br />**Are you doing everything you can to be ready?**',
+        image: imgUrl('recode.png'),
         imageAlign: 'right',
-        title: 'Description',
+        title: 'Fellow Publisher,',
       },
     ]}
   </Block>
@@ -205,14 +203,14 @@ class Index extends React.Component {
     return (
       <div>
         <HomeSplash language={language} />
-        {/* <div className="mainContainer">
+        <div className="mainContainer">
+          <Description />
+          {/* <LearnHow />
           <Features />
           <FeatureCallout />
-          <LearnHow />
           <TryOut />
-          <Description />
-          <Showcase language={language} />
-        </div> */}
+          <Showcase language={language} /> */}
+        </div>
       </div>
     );
   }

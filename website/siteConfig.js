@@ -9,26 +9,25 @@
 const users = [];
 
 const siteConfig = {
-  title: 'Newsroom in a Box' /* title for your website */,
-  tagline: 'An opinionated guide & set of tools for digital publishing',
-  url: 'https://newsroominabox.com' /* your website url */,
+  title: 'Philadelphia Publishing Company' /* title for your website */,
+  tagline: 'Tech solutions for local & niche publishers.',
+  url: 'https://phillypublishing.com' /* your website url */,
   baseUrl: '/' /* base url for your project */,
   projectName: 'guide',
   headerLinks: [
-    {doc: 'mission', label: 'Mission'},
-    {doc: 'projects', label: 'Projects'},
+    {doc: 'audits', label: 'Audits'},
     {doc: 'contact', label: 'Contact'},
-    {blog: true, label: 'Blog'},
   ],
   users,
   /* path to images for header/footer */
-  headerIcon: 'img/ben.png',
+  headerIcon: 'img/ppc.png',
   footerIcon: 'img/ben.png',
-  favicon: 'img/ben.png',
+  projectURL: 'https://newsroominabox.com',
+  favicon: 'img/ppc.png',
   /* colors for website */
   colors: {
-    primaryColor: '#09329e',
-    secondaryColor: '#a3a3a3',
+    primaryColor: '#ed4123',
+    secondaryColor: '#09329e',
   },
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
   copyright:
@@ -36,15 +35,15 @@ const siteConfig = {
     new Date().getFullYear() +
     ' Philadelphia Publishing Company',
   organizationName: 'davisshaver', // or set an env variable ORGANIZATION_NAME
-  projectName: 'newsroominabox', // or set an env variable PROJECT_NAME
+  projectName: 'ppc-new', // or set an env variable PROJECT_NAME
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default',
   },
-  cname: 'newsroominabox.com',
+  cname: 'phillypublishing.com',
   scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: 'https://github.com/davisshaver/newsroominabox',
+  repoUrl: 'https://github.com/davisshaver/ppc-new',
 };
 
 module.exports = siteConfig;
