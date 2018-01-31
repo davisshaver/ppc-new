@@ -107,11 +107,11 @@ const Features = props => (
         title: 'Cooperative Audience Extension',
       },
       {
-        content: 'Extract maximum revenue from display without annoying users. Never show a crappy remnant ad again.',
+        content: 'Extract maximum revenue from display without annoying users.',
         title: 'Wrapper Around Prebid.js',
       },
       {
-        content: 'Alexa skills, Facebook Instant Articles, Google AMP, and Apple News are juts a few of the new distribution channels you can tap & monetize.',
+        content: 'New distribution channels you can tap & monetize.',
         title: 'Monetize New Distribution Channels',
       },
     ]}
