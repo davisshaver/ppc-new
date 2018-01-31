@@ -4,6 +4,11 @@ title: Site Audits
 ---
 
 ## What's included in an audit?
+- Comparative audience reach
+- Metatag coverage
+- Performance analysis
+- Site security & risk analysis
+- UX/UI health check
 
 ## Request your site audit now
 <form

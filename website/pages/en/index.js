@@ -103,16 +103,16 @@ const Features = props => (
   <Block layout="fourColumn">
     {[
       {
-        content: 'This is the content of my feature',
-        image: imgUrl('ben.png'),
-        imageAlign: 'top',
-        title: 'Feature One',
+        content: 'Fill orders of any size and make money by helping other publishers fill their orders.',
+        title: 'Cooperative Audience Extension',
       },
       {
-        content: 'The content of my second feature',
-        image: imgUrl('ben.png'),
-        imageAlign: 'top',
-        title: 'Feature Two',
+        content: 'Extract maximum revenue from display without annoying users. Never show a crappy remnant ad again.',
+        title: 'Wrapper Around Prebid.js',
+      },
+      {
+        content: 'Alexa skills, Facebook Instant Articles, Google AMP, and Apple News are juts a few of the new distribution channels you can tap & monetize.',
+        title: 'New Monetizable Distribution Channels',
       },
     ]}
   </Block>
@@ -131,10 +131,8 @@ const LearnHow = props => (
   <Block background="light">
     {[
       {
-        content: 'Talk about learning how to use this',
-        image: imgUrl('ben.png'),
-        imageAlign: 'left',
-        title: 'This is an exclusive offer to Indy local and niche publishers.',
+        content: 'I am NOT an agency, I am a <strong>FULL-SERVICE VIRTUAL CTO</strong> committed to the long-term financial success and independence of publishers like yourself.<br /><br />I offer a full service hosting and optimization service that puts you in control of your digital strategy like never before. I read docs, document best practices, and handle the tech so you can <strong>FOCUS on your relationships with readers and advertisers</strong><br /><br />Join now and get access to:<br /><br />- Best-in-class managed WordPress hosting<br />- Monthly performance reporting<br />- Exclusive tutorials, analysis, case studies, and other practical information',
+        title: 'This is an exclusive offer to Indy local and niche publishers.<br /><br />',
       },
     ]}
   </Block>
@@ -144,10 +142,8 @@ const TryOut = props => (
   <Block id="try">
     {[
       {
-        content: 'Talk about trying this out',
-        image: imgUrl('ben.png'),
-        imageAlign: 'left',
-        title: 'Try it Out',
+        content: 'Competitive market analysis and technical audit. Free, no obligations, no sales call.<br /><br />[Request yours now.](/docs/audits.html#request-your-site-audit-now)',
+        title: 'Request Your Site Audit Now!',
       },
     ]}
   </Block>
@@ -157,7 +153,7 @@ const Description = props => (
   <Block background="dark">
     {[
       {
-        content: 'It once seemed crazy that digital revenue would overtake print.<br /><br />**Now it seems inevitable.** <br /><br />The New York Times & Washington Post are trailblazing business models built on digital advertising & subscription revenue. The Denver Post expects [crossover](https://www.denverpost.com/2018/01/16/mac-tully-the-denver-post-resigns/) this year.<br /><br />**Are you doing everything you can to be ready?**',
+        content: '<br />It once seemed crazy that digital revenue would overtake print.<br /><br />**Now it seems inevitable.** <br /><br />The New York Times & Washington Post are trailblazing business models built on digital advertising & subscription revenue. The Denver Post expects [crossover](https://www.denverpost.com/2018/01/16/mac-tully-the-denver-post-resigns/) this year.<br /><br />**Are you doing everything you can to be ready?**',
         image: imgUrl('recode.png'),
         imageAlign: 'right',
         title: 'Fellow Publisher,',
@@ -205,11 +201,10 @@ class Index extends React.Component {
         <HomeSplash language={language} />
         <div className="mainContainer">
           <Description />
-          {/* <LearnHow />
+          <LearnHow />
           <Features />
-          <FeatureCallout />
           <TryOut />
-          <Showcase language={language} /> */}
+          <Showcase language={language} />
         </div>
       </div>
     );
