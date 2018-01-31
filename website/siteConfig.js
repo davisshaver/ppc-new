@@ -26,7 +26,7 @@ const siteConfig = {
   favicon: 'img/ppc.png',
   /* colors for website */
   colors: {
-    primaryColor: '#DC143C',
+    primaryColor: '#990000',
     secondaryColor: '#09329e',
   },
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
