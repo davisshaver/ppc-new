@@ -103,7 +103,7 @@ const Features = props => (
   <Block layout="fourColumn">
     {[
       {
-        content: 'Fill orders of any size and make money by helping other publishers fill their orders.',
+        content: 'Fill any size order & make money by helping coop members do the same.',
         title: 'Cooperative Audience Extension',
       },
       {
