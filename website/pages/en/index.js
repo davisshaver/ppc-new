@@ -112,7 +112,7 @@ const Features = props => (
       },
       {
         content: 'Alexa skills, Facebook Instant Articles, Google AMP, and Apple News are juts a few of the new distribution channels you can tap & monetize.',
-        title: 'New Monetizable Distribution Channels',
+        title: 'Monetize New Distribution Channels',
       },
     ]}
   </Block>
