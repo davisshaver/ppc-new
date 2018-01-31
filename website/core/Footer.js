@@ -42,9 +42,9 @@ class Footer extends React.Component {
             <p>
               <a href="mailto:info@phillypublishing.com">info@phillypublishing.com</a><br />
               <a href="tel:8566711634">(856) 671-1634</a><br />
-              Philadelphia Publishing Company<br />
+              <a href="https://www.google.com/maps/dir/''/google+maps+pipeline+philly/">Philadelphia Publishing Company<br />
               30 South 15th Street, 15 Floor<br />
-              Philadelphia, PA 19102
+              Philadelphia, PA 19102</a>
             </p>
           </div>
           <div>
