@@ -15,6 +15,7 @@ const siteConfig = {
   baseUrl: '/' /* base url for your project */,
   projectName: 'guide',
   headerLinks: [
+    {doc: 'about', label: 'About'},
     {doc: 'audits', label: 'Audits'},
     {doc: 'contact', label: 'Contact'},
   ],
