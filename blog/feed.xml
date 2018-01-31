@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Philadelphia Publishing Company Blog</title>
+        <link>https://phillypublishing.com/blog</link>
+        <description>The best place to stay up-to-date with the latest Philadelphia Publishing Company news and events.</description>
+        <lastBuildDate>Wed, 31 Jan 2018 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Philadelphia Publishing Company Blog</title>
+            <url>https://phillypublishing.comimg/ppc.png</url>
+            <link>https://phillypublishing.com/blog</link>
+        </image>
+        <copyright>Copyright © 2018 Philadelphia Publishing Company</copyright>
+        <item>
+            <title><![CDATA[Hello world!]]></title>
+            <link>https://phillypublishing.com/blog/2018/01/31/hello-world.html</link>
+            <guid>https://phillypublishing.com/blog/2018/01/31/hello-world.html</guid>
+            <pubDate>Wed, 31 Jan 2018 06:00:00 GMT</pubDate>
+            <description><![CDATA[Hello world!]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://phillypublishing.com/help.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/en/help.html" /> </url>
+<url> <loc>https://phillypublishing.com/index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/en/index.html" /> </url>
+<url> <loc>https://phillypublishing.com/users.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/en/users.html" /> </url>
+<url> <loc>https://phillypublishing.com/blog/2018/01/31/hello-world.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://phillypublishing.com/docs/audits.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/docs/audits.html" /> </url>
+<url> <loc>https://phillypublishing.com/docs/contact.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/docs/contact.html" /> </url>
+<url> <loc>https://phillypublishing.com/docs/privacy.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/docs/privacy.html" /> </url>
+</urlset>

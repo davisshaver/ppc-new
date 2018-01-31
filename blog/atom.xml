@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://phillypublishing.com/blog</id>
+    <title>Philadelphia Publishing Company Blog</title>
+    <updated>2018-01-31T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://phillypublishing.com/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Philadelphia Publishing Company news and events.</subtitle>
+    <logo>https://phillypublishing.comimg/ppc.png</logo>
+    <rights>Copyright © 2018 Philadelphia Publishing Company</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello world!]]></title>
+        <id>https://phillypublishing.com/blog/2018/01/31/hello-world.html</id>
+        <link href="https://phillypublishing.com/blog/2018/01/31/hello-world.html">
+        </link>
+        <updated>2018-01-31T06:00:00Z</updated>
+        <summary type="html"><![CDATA[Hello world!]]></summary>
+        <author>
+            <name>Davis Shaver</name>
+            <uri>http://twitter.com/davisshaver</uri>
+        </author>
+    </entry>
+</feed>
