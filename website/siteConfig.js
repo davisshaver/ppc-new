@@ -41,7 +41,11 @@ const siteConfig = {
     theme: 'default',
   },
   cname: 'phillypublishing.com',
-  scripts: ['https://buttons.github.io/buttons.js'],
+  scripts: [
+    'https://buttons.github.io/buttons.js',
+  'https://tag.marinsm.com/serve/5a6fb095b94f178b9d0000ec.js',
+  'https://www.googletagmanager.com/gtm.js?id=GTM-K7GRFRN'
+],
   // You may provide arbitrary config keys to be used as needed by your template.
   repoUrl: 'https://github.com/davisshaver/ppc-new',
 };
