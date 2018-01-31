@@ -8,7 +8,7 @@ title: Site Audits
 - Metatag coverage
 - Performance analysis
 - Site security & risk analysis
-- UX/UI health check
+- UI/UX health check
 
 ## Request your site audit now
 <form
