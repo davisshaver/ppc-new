@@ -1834,7 +1834,7 @@ form.contact input{
 }
 
 .leadinModal {
-	z-index: 9999;
+	z-index: 9999 !important;
 }
 
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
