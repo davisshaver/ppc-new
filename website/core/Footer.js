@@ -23,20 +23,6 @@ class Footer extends React.Component {
     return (
       <footer className="nav-footer" id="footer">
         <section className="sitemap">
-          <a
-            href={this.props.config.projectURL}
-            className="nav-home"
-            title="Check out our open source project, Newsroom in a Box"
-          >
-            {this.props.config.footerIcon && (
-              <img
-                src={this.props.config.baseUrl + this.props.config.footerIcon}
-                alt={this.props.config.title}
-                width="66"
-                height="58"
-              />
-            )}
-          </a>
           <div>
             <h5>Contact Info</h5>
             <p>
@@ -67,7 +53,7 @@ class Footer extends React.Component {
           className="fbOpenSource">
           <img
             src={this.props.config.baseUrl + 'img/ppc.png'}
-            alt="Facebook Open Source"
+            alt="Philadelphia Publishing Company"
             width="170"
             height="170"
           />
