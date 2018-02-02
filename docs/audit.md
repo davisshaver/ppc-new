@@ -20,5 +20,6 @@ method="POST">
   <input type="url" name="url"  placeholder="Your outlet URL" />
   <input type="hidden" name="_subject" value="I want a site audit!" />
   <input type="text" name="_gotcha" style="display:none" />
+  <input type="hidden" name="_next" value="https://phillypublishing.com" />
   <input class="btn btn-subs" type="submit" value="Request your site audit">
 </form>
