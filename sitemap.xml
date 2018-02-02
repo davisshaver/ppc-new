@@ -5,7 +5,7 @@
 <url> <loc>https://phillypublishing.com/users.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/en/users.html" /> </url>
 <url> <loc>https://phillypublishing.com/blog/2018/01/31/hello-world.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://phillypublishing.com/docs/about.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/docs/about.html" /> </url>
-<url> <loc>https://phillypublishing.com/docs/audits.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/docs/audits.html" /> </url>
+<url> <loc>https://phillypublishing.com/docs/audit.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/docs/audit.html" /> </url>
 <url> <loc>https://phillypublishing.com/docs/contact.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/docs/contact.html" /> </url>
 <url> <loc>https://phillypublishing.com/docs/privacy.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/docs/privacy.html" /> </url>
 </urlset>
