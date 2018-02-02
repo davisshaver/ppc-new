@@ -82,7 +82,7 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href={docUrl('audits.html', language)}>Request your free site audit</Button>
+            <Button href={docUrl('audit.html', language)}>Request your free site audit</Button>
          </PromoSection>
         </div>
       </SplashContainer>
@@ -131,7 +131,7 @@ const LearnHow = props => (
   <Block background="light">
     {[
       {
-        content: 'I am NOT an agency, I am a <strong>FULL-SERVICE VIRTUAL CTO</strong> committed to the long-term financial success and independence of publishers like yourself.<br /><br />I offer a full-service hosting and optimization service that puts you in control of your digital strategy like never before. I read docs, document best practices, and handle the tech so you can <strong>FOCUS on your relationships with readers and advertisers</strong><br /><br />Join now and get access to:<br /><br />- Best-in-class managed WordPress hosting<br />- Monthly performance reporting<br />- Exclusive tutorials, analysis, case studies, and other practical information<br /><br /><h3>Are you a cowboy coder?</h3><br /><br />Stop messing around with code you don\'t understand and agencies who don\'t understand you!<br /><br />You deserve 24/7 support. Your total cost of ownership based on audience size should NEVER go up. And your website should always remain accessible – and fast!',
+        content: 'I am NOT an agency, I am a <strong>FULL-SERVICE VIRTUAL CTO</strong> committed to the long-term financial success and independence of publishers like yourself.<br /><br />I offer a full-service hosting and optimization service that puts you in control of your digital strategy like never before. I read docs, document best practices, and handle the tech so you can <strong>FOCUS on your relationships with readers and advertisers</strong><br /><br />Join now and get access to:<br /><br />- Best-in-class managed WordPress hosting<br />- Monthly performance reporting<br />- Weekly ["Junto"](https://en.wikipedia.org/wiki/Junto_(club)) hangout focused on revenue<br />- Exclusive tutorials, analysis, case studies, and other practical information<br /><br /><h3>Are you a cowboy coder?</h3><br /><br />Stop messing around with code you don\'t understand and agencies who don\'t understand you!<br /><br />You deserve 24/7 support. Your total cost of ownership based on audience size should NEVER go up. And your website should always remain accessible – and fast!<br /><br /><h3>Have other consultants left you high and dry?</h3><br /><br />Unlike other companies in this space, consulting is not a "pivot" or an alternative revenue stream for us. We have no outside funding and minimal overhead. Have other consultants left you high and dry? Not me; I know what it\'s like to be a bootstrapped upstart publisher and _your livelihood is my business_.<br /><br />**My promises to you:**<br /><br />- Committed to you and this industry, and have spent my career so far proving it. [Read my bio.](/docs/about.html)<br />- You get a personal cell number to use in case of site emergency.<br />- 100% aligned incentives. Never get penalized for a traffic spike & benefit from reduced marginal costs as you scale.',
         title: 'This is an exclusive offer to Indy local and niche publishers.<br /><br />',
       },
     ]}

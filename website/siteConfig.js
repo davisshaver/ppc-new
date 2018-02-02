@@ -16,7 +16,7 @@ const siteConfig = {
   projectName: 'guide',
   headerLinks: [
     {doc: 'about', label: 'About'},
-    {doc: 'audits', label: 'Audits'},
+    {doc: 'audit', label: 'Audits'},
     {doc: 'contact', label: 'Contact'},
   ],
   users,

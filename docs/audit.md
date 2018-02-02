@@ -1,6 +1,6 @@
 ---
-id: audits
-title: Site Audits
+id: audit
+title: Site Audit
 ---
 
 ## What's included in an audit?
