@@ -22,6 +22,10 @@ form.contact input{
 	margin: auto;
 }
 
+.leadinModal {
+	z-index: 9999;
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 
