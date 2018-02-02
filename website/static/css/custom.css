@@ -12,6 +12,10 @@ form.contact input{
 	width: 100%;
 }
 
+.leadin-footer-wrapper {
+	display: none !important;
+}
+
 .gridBlock .imageAlignSide .blockImage {
 	padding: 20px;
 	margin: 0;
