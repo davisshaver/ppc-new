@@ -146,7 +146,7 @@ const TryOut = props => (
   <Block id="try">
     {[
       {
-        content: 'Competitive market analysis and technical audit. Free, no obligations, no sales call.<br /><br />[Request yours now.](/docs/audits.html#request-your-site-audit-now)',
+        content: 'Competitive market analysis and technical audit. Free, no obligations, no sales call.<br /><br />[Request yours now.](/docs/audit.html#request-your-site-audit-now)',
         title: 'Request Your Site Audit Now!',
       },
     ]}
