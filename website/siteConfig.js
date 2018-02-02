@@ -23,7 +23,7 @@ const siteConfig = {
   /* path to images for header/footer */
   headerIcon: 'img/ppc.png',
   footerIcon: 'img/ben.png',
-  projectURL: 'https://newsroominabox.com',
+  projectURL: 'https://phillypublishing.com',
   favicon: 'img/ppc.png',
   /* colors for website */
   colors: {
