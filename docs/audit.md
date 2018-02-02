@@ -10,7 +10,7 @@ As a publisher, you have a dozen different priorities every day. Rarely do you g
 - No spam.
 - No spin.
 
-Our free site audits are a combination of an automated/quantitative tests (SEO, SMO, UI/UX, etc) coupled with qualitative & strategic anlysis of your outlet's strengths and weaknesses.
+Our free site audits are a combination of automated/quantitative tests (SEO, SMO, UI/UX, etc) coupled with qualitative & strategic anlysis of your outlet's strengths and weaknesses.
 
 **This offer is not available to corporate newsrooms.**
 
