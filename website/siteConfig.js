@@ -10,7 +10,7 @@ const users = [];
 
 const siteConfig = {
   title: 'Philadelphia Publishing Company' /* title for your website */,
-  tagline: 'Tech solutions for local & niche publishers.',
+  tagline: 'Virtual CTO for local & niche publishers.',
   url: 'https://phillypublishing.com' /* your website url */,
   baseUrl: '/' /* base url for your project */,
   projectName: 'guide',
@@ -21,14 +21,13 @@ const siteConfig = {
   ],
   users,
   /* path to images for header/footer */
-  headerIcon: 'img/ppc.png',
   footerIcon: 'img/ben.png',
   projectURL: 'https://phillypublishing.com',
   favicon: 'img/ppc.png',
   /* colors for website */
   colors: {
-    primaryColor: '#990000',
-    secondaryColor: '#09329e',
+    primaryColor: '#234196',
+    secondaryColor: '#FF2800',
   },
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
   copyright:
