@@ -14,6 +14,7 @@ form.contact input{
 
 footer .sitemap {
 	margin: 10px;
+	max-width: unset;
 }
 
 body .leadin-content-body .leadin-footer-wrapper {
