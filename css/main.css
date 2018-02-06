@@ -1827,7 +1827,7 @@ footer .sitemap {
 	margin: 10px;
 }
 
-.leadin-content-body .leadin-footer-wrapper {
+body .leadin-content-body .leadin-footer-wrapper {
 	display: none !important;
 }
 
