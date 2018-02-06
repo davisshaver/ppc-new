@@ -12,6 +12,10 @@ form.contact input{
 	width: 100%;
 }
 
+footer .sitemap {
+	margin: 10px;
+}
+
 .leadin-content-body .leadin-footer-wrapper {
 	display: none !important;
 }
