@@ -7,10 +7,12 @@
     "about": "About",
     "audit": "Site Audit",
     "contact": "Contact",
+    "hosting": "Hosting",
     "privacy": "Privacy Notice",
     "About": "About",
     "Audits": "Audits",
-    "Contact": "Contact"
+    "Contact": "Contact",
+    "Hosting": "Hosting"
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",

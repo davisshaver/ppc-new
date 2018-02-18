@@ -18,6 +18,7 @@ const siteConfig = {
     {doc: 'about', label: 'About'},
     {doc: 'audit', label: 'Audits'},
     {doc: 'contact', label: 'Contact'},
+    {doc: 'hosting', label: 'Hosting'},
   ],
   users,
   /* path to images for header/footer */
