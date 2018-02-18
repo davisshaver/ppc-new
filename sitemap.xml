@@ -7,5 +7,6 @@
 <url> <loc>https://phillypublishing.com/docs/about.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/docs/about.html" /> </url>
 <url> <loc>https://phillypublishing.com/docs/audit.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/docs/audit.html" /> </url>
 <url> <loc>https://phillypublishing.com/docs/contact.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/docs/contact.html" /> </url>
+<url> <loc>https://phillypublishing.com/docs/hosting.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/docs/hosting.html" /> </url>
 <url> <loc>https://phillypublishing.com/docs/privacy.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://phillypublishing.com/docs/privacy.html" /> </url>
 </urlset>

@@ -6,7 +6,7 @@
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://phillypublishing.com/blog"/>
     <subtitle>The best place to stay up-to-date with the latest Philadelphia Publishing Company news and events.</subtitle>
-    <logo>https://phillypublishing.comundefined</logo>
+    <logo>https://phillypublishing.com/undefined</logo>
     <rights>Copyright © 2018 Philadelphia Publishing Company</rights>
     <entry>
         <title type="html"><![CDATA[Hello world!]]></title>
@@ -14,7 +14,8 @@
         <link href="https://phillypublishing.com/blog/2018/01/31/hello-world.html">
         </link>
         <updated>2018-01-31T06:00:00Z</updated>
-        <summary type="html"><![CDATA[Hello world!]]></summary>
+        <summary type="html"><![CDATA[<p>Hello world!</p>
+]]></summary>
         <author>
             <name>Davis Shaver</name>
             <uri>http://twitter.com/davisshaver</uri>
